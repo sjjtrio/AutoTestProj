@@ -1,3 +1,6 @@
+Moved to https://github.com/sjjtrio/UAAutoTest
+
+
 # AutoTestProj
 My personal auto testing framework. Used in real projects of company I serverd.
 
